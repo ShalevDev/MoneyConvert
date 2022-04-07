@@ -1,0 +1,17 @@
+name: MoneyConvert
+version: 1.0
+main: com.shalev.moneyconvert.MoneyConvert
+api-version: 1.14
+author: Shalev
+description: This plugin allow users to convert currency into notes!
+commands:
+  bal:
+    description: Allows users to manage their balance
+  withdraw:
+    description: Allows users to withdraw and give money to other users
+  serverNote:
+    description: Allows staff to create money notes
+  rlConfig:
+    description: Reloads the config of the plugin
+
+
